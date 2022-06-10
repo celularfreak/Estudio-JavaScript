@@ -1,3 +1,1 @@
-var nombre = "Hola Mundo";
-
-console.log(nombre);
+console.log("Hola mundo en JavaScript");
